@@ -163,7 +163,7 @@ body {
       }
 
       &.s-key-up::after {
-        @include key("up");
+        @include key("W");
         border: none;
       }
 
